@@ -1,7 +1,7 @@
 # springD2A for Drug Repositioning
 #### Running example: 
 
- run_springD2A.sh
+ run_demo.sh
 
 #### Datasets
 
