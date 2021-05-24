@@ -1,0 +1,1 @@
+python run_springD2A.py --p ./Dataset/ --d Fdataset --log test.log
